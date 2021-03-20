@@ -1,0 +1,21 @@
+.ct{
+    height: 600px;
+    width: 600px;
+    background-color: orange;
+}
+.ct1{
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+.ct2{
+    background-color: white;
+}
+.ct3{
+    background-color: black;
+}
+table{
+    height: 94%;
+    width: 94%;
+    border-collapse: collapse;
+}
